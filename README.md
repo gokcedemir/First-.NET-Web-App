@@ -1,2 +1,2 @@
-# First-.NET-Web-App
+# .NET
 Hello World in 10 minutes with .Net
